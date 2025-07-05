@@ -97,7 +97,7 @@ export const profileData: IProfile = {
               "React Toastify"
             ],
             links: {
-              live: "https://your-live-project-link.com", // Replace with actual live link
+              live: "https://ahmii-play.vercel.app/", // Replace with actual live link
               github: "https://github.com/your-username/mega_project" // Replace with GitHub repo link
             }
           },
